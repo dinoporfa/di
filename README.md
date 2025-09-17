@@ -1,5 +1,6 @@
 # DI
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+![Licencia](https://img.shields.io/badge/license-MIT-pink)
 
 ## Índice
 * [Descripción](#Descripción)
@@ -32,11 +33,12 @@ Este proxecto foi creado con:
 * Kotlin
 
 ## Persoas contribuintes
-* Carlos Méndez Rodriguez
-* Lois Fajardo Tubío
+| [<img src="https://static.wikia.nocookie.net/sillyman/images/f/f9/MyMelody.png/revision/latest/thumbnail/width/360/height/360?cb=20241004121947" width=115><br><sub>Lois Fajardo Tubío</sub>](https://github.com/dinoporfa) | <img src="https://static.wikia.nocookie.net/sanrio/images/5/59/Cinnamoroll2Bbackground.webp/revision/latest?cb=20231016042440" width=115><br><sub>Carlos Méndez Rodríguez</sub> |
+| :---: | :---: |
 
 ## Desarrolladores do proxecto
-* Lois Fajardo Tubío
+| [<img src="https://static.wikia.nocookie.net/sillyman/images/f/f9/MyMelody.png/revision/latest/thumbnail/width/360/height/360?cb=20241004121947" width=115><br><sub>Lois Fajardo Tubío</sub>](https://github.com/dinoporfa) |
+| :---: | 
 
 ## Licencia
-Este é un proxecto de código aberto
+Este é un proxecto de código aberto con licencia MIT
