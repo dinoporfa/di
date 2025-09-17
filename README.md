@@ -2,16 +2,14 @@
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
 
 ## Índice
-* [Descripción](#descripción)
+* [Descripción](#Descripción)
 * [Estado do proxecto](#Estado-do-proxecto)
-* [Características da aplicación e demostración](#Características-da-aplicación-e-demostración)
-* [Acceso ao proxecto](#acceso-proxecto)
-* [Tecnoloxías utilizadas](#tecnoloxías-utilizadas)
-* [Persoas Contribuites](#persoas-contribuintes)
-* [Desarrolladores do Proxecto](#desarrolladores)
-* [Licencia](#licencia)
-* [Conclusión](#conclusión)
-
+* [Características da aplicación](#Características-da-aplicación)
+* [Acceso ao proxecto](#Acceso-ao-proxecto)
+* [Tecnoloxías utilizadas](#Tecnoloxías-utilizadas)
+* [Persoas Contribuites](#Persoas-contribuintes)
+* [Desarrolladores do Proxecto](#Desarrolladores)
+* [Licencia](#Licencia)
 
 ## Descipción
 Este é o proxecto de desarrollo de interfaces
