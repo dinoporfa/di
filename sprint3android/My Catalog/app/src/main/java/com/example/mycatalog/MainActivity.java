@@ -1,5 +1,6 @@
 package com.example.mycatalog;
 
+import android.content.Intent;
 import android.os.Bundle;
 
 import androidx.activity.EdgeToEdge;
@@ -14,5 +15,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
+
+    public void onClick(){
+        Intent intent = new Intent(MainActivity.this, DetailActivity.class);
+        MainActivity.this.startActivity(intent);
     }
 }
