@@ -12,6 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyCatalog">
         <activity
+            android:name=".ActivityMain"
+            android:exported="false"
+            android:label="@string/title_activity_main" />
+        <activity
             android:name=".DetailActivity"
             android:exported="false" />
         <activity
