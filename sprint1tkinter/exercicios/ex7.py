@@ -1,7 +1,24 @@
 import tkinter as tk
 
 def crear_canvas():
-    canvas.create_rectangle(50, 50, f"{entrada1.get()}", f"{entrada2.get()}", outline="red")
+    if entrada1.get()=="":
+        float1 = 0.0
+    else:
+        float1 = float(entrada1.get())
+    if entrada2.get()=="":
+        float2 = 0.0
+    else:
+        float2 = float(entrada2.get())
+    if entrada3.get()=="":
+        float3 = 0.0
+    else:
+        float3 = float(entrada3.get())
+    if entrada4.get()=="":
+        float4 = 0.0
+    else:
+        float4 = float(entrada4.get())
+    canvas.create_rectangle(float1, float2, float3, float4, outline="red")
+    canvas.create_oval(float1, float2, float3, float4, outline="blue")
 
 root = tk.Tk()
 root.geometry("400x400")
@@ -33,7 +50,7 @@ etiqueta4.pack()
 entrada4 = tk.Entry(root)
 entrada4.pack()
 
-boton = tk.Button(root, text="Crear formas", command=crear_canvas())
+boton = tk.Button(root, text="Crear formas", command=crear_canvas)
 boton.pack()
 
 
