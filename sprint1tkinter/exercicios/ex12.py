@@ -80,7 +80,7 @@ boton_sair = tk.Button(root, text="Saír", command=sair)
 boton_sair.pack()
 
 listbox.pack(pady=10, fill="both", expand=True)
-root.mainloop()
+
 
 
 root.mainloop()
